@@ -1,0 +1,14 @@
+body {
+	font-family: "EB Garamond", serif;
+}
+.weather-app {
+	background-image: url(https://s3.amazonaws.com/shecodesio-production/uploads/files/000/111/368/original/annie-spratt-GJJo0gb7bfY-unsplash.jpg?1705760191);
+	background-repeat: no-repeat;
+	background-size: cover;
+	box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
+	border-radius: 15px;
+	margin: 30px auto;
+	padding: 30px;
+	max-width: 400px;
+	max-height: 1000px;
+}
